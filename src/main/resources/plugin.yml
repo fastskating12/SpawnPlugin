@@ -1,0 +1,11 @@
+name: SpawnPlugin
+version: '${project.version}'
+main: me.fast.spawnplugin.SpawnPlugin
+api-version: 1.18
+authors: [ fastskating12 ]
+description: creates spawn essentials
+commands:
+    setspawn:
+      description: set spawn location so you can do /spawn!
+    spawn:
+        description: teleports you to spawn!
